@@ -6,3 +6,5 @@ def print_menu():
     print("2. Get Advice Based on Current Moon Phase")
     print("3. Look Up Upcoming Phases")
     print("4. Exit")
+def main():
+    while True:
